@@ -1,0 +1,32 @@
+HOME LOAN PREDICTION SYSTEM
+
+Aim:
+   To help the bank customers to know whether their home loan can be approved or not.
+
+Algorithm used:
+Random Forest
+
+Algorithms tried:
+K nearest neighbors
+SVM
+Logistic Regression
+
+How To Run:
+Run the project by using the command,
+python app.py
+
+Requirements:
+python3
+scikit-learn
+flask
+pandas
+numpy
+pickle
+
+Result:
+   Out of all algorithms, random forest algorithm gave the best result(an accuracy of 81%).
+
+
+Done by,
+    Shravan G A-2017103592
+    Nikhil Rajasekaran Sargunar B-2017103621
